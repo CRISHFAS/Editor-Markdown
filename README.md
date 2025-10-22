@@ -1,16 +1,6 @@
 <div align="center">
   <h1>Editor Markdown</h1>
-  <p>Un editor moderno, interactivo y en tiempo real para escribir, previsualizar y experimentar con Markdown desde tu navegador.</p>
-
-  <a href="https://github.com/CRISHFAS/Editor-Markdown">
-    <img src="https://img.shields.io/badge/React-18.2-blue?logo=react" alt="React Badge" />
-  </a>
-  <a href="https://github.com/CRISHFAS/Editor-Markdown">
-    <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" alt="Next.js Badge" />
-  </a>
-  <a href="https://github.com/CRISHFAS/Editor-Markdown">
-    <img src="https://img.shields.io/badge/TailwindCSS-3.4-blue?logo=tailwindcss" alt="TailwindCSS Badge" />
-  </a>
+  <p>Un editor moderno, interactivo y en tiempo real para escribir, previsualizar y experimentar con Markdown desde tu navegador.</p> 
 </div>
 
 ---
