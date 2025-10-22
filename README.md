@@ -1,13 +1,13 @@
-<div align="center">
-  <h1>Editor Markdown</h1>
-  <p>Un editor moderno, interactivo y en tiempo real para escribir, previsualizar y experimentar con Markdown desde tu navegador.</p> 
-</div>
+<h1 align="center">Editor Markdown</h1>  
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React_Icons-purple?logo=react" alt="React Icons" />
+  <img src="https://img.shields.io/badge/Markdown_editor-orange?logo=markdown&logoColor=white" alt="Markdown Editor" />
+</p>
 
----
-
-## Descripción
-
-**Editor Markdown** es una aplicación web creada con **Next.js**, **React** y **TailwindCSS** que te permite escribir y visualizar archivos Markdown en tiempo real.
+<p align="center">Aplicación web creada con Next.js, React y TailwindCSS que te permite escribir y visualizar archivos Markdown en tiempo real.</p>
 
 ---
 
@@ -23,11 +23,9 @@
 
 ## Tecnologías utilizadas
 
-- [Next.js 14](https://nextjs.org/)
-- [React 18](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [@uiw/react-md-editor](https://github.com/uiwjs/react-md-editor)
 
 ---
 
@@ -54,7 +52,6 @@ npm run dev
 
 ### El proyecto se ejecutará en:
 
-```arduino
+```bash
 http://localhost:3000
 ```
-
