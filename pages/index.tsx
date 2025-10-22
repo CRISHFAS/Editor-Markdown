@@ -50,10 +50,10 @@ const Home: NextPage = () => {
           </div>
 
           <div className={styles.card}>
-            <p>Experimenta con tu Markdown, prueba y edita al instante con total libertad, directamente en tu navegador sin instalaciones.</p>
+            <p>
+              Experimenta con tu Markdown, prueba y edita al instante con total libertad, directamente en tu navegador sin instalaciones.
+            </p>
           </div>
-
-
         </div>
       </main>
 
@@ -67,13 +67,11 @@ const Home: NextPage = () => {
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-gray-200 hover:text-purple-400 transition-colors duration-200"
         >
-          <FaGithub size={24} />
+          {/* Cast directo a JSX.Element */}
+          {FaGithub({ size: 24 }) as JSX.Element}
           Código en GitHub
         </a>
       </footer>
-
-
-
     </div>
   )
 }
